@@ -1,0 +1,27 @@
+html {
+    box-sizing: border-box;
+}
+
+*, *::before, *::after {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: white;
+    color: black;
+}
+
+.profile {
+    text-align: center;
+}
+
+.profile img {
+    width: auto; /* šířka obrázku bude automaticky nastavena */
+    height: 200px; /* výška obrázku */
+    margin-bottom: 10px; /* mezera mezi obrázkem a textem */
+}

@@ -1,0 +1,15 @@
+html {
+    font-family: sans-serif; /* 1 */
+    line-height: 1.15;
+    -ms-text-size-adjust: 100%; /* 2 */
+    -webkit-text-size-adjust: 100%; /* 2 */
+}
+
+body {
+    margin: 0;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
