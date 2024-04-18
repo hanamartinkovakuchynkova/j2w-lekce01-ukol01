@@ -1,3 +1,6 @@
+# Lesson 1, task 1
+The goal is to prepare simple personal web medallion.
+
 # Lekce 1, úkol 1
 
 Cílem je připravit si svůj osobní webový medailonek (například na úrovni jednodenního workshopu [Tvořím web HTML/CSS](https://www.czechitas.cz/cs/co-delame/tvorim-web)).
